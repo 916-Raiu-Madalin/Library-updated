@@ -1,0 +1,19 @@
+1;Todea Mihai
+
+2;Raiu Mihai
+
+3;Salam Augustin
+
+4;Trump Mihai
+
+5;Bucea Vali
+
+6;Trump Nadia
+
+7;Popescu Nadia
+
+8;Salam Vali
+
+9;Misti Mircea
+
+10;Risteiu Daniela

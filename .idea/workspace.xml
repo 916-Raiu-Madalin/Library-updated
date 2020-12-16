@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb97204e-4c95-47b7-9925-1a54d436c21f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ebd65b96-8837-42b9-953c-91f88b6c6533" />
+  <component name="ProjectId" id="1ljfUMdNWg01nKGpqstEpwTEfac" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a10-916-Raiu-Madalin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\raium\Desktop\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ui/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="a10-916-Raiu-Madalin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\raium\Desktop\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/tests/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Unittests in tests.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests in tests.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb97204e-4c95-47b7-9925-1a54d436c21f" name="Default Changelist" comment="" />
+      <created>1608115438734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608115438734</updated>
+      <workItem from="1608115441006" duration="19084000" />
+      <workItem from="1608142373483" duration="8770000" />
+      <workItem from="1608151241668" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608145005090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608145005090" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608151236895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151236895" />
+    <state width="1323" height="352" key="GridCell.Tab.0.bottom" timestamp="1608151402065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="352" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151402065" />
+    <state width="1323" height="352" key="GridCell.Tab.0.center" timestamp="1608151402065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="352" key="GridCell.Tab.0.center/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151402065" />
+    <state width="1323" height="352" key="GridCell.Tab.0.left" timestamp="1608151402065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="352" key="GridCell.Tab.0.left/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151402065" />
+    <state width="1323" height="352" key="GridCell.Tab.0.right" timestamp="1608151402065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="352" key="GridCell.Tab.0.right/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151402065" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1608151239265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151239265" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1608151239265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151239265" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1608151239265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151239265" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1608151239265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608151239265" />
+    <state x="223" y="32" width="1009" height="508" key="dock-window-1" timestamp="1608125259565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="223" y="32" width="1009" height="508" key="dock-window-1/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608125259565" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1608118821072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/-1280.-257.1280.984@0.0.1366.728" timestamp="1608118821072" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a10_916_Raiu_Madalin$Unittests_in_tests_py.coverage" NAME="Unittests in tests.py Coverage Results" MODIFIED="1608150952232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tests" />
+    <SUITE FILE_PATH="coverage/a10_916_Raiu_Madalin$main.coverage" NAME="main Coverage Results" MODIFIED="1608151328758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ui" />
+  </component>
+</project>

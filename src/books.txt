@@ -1,0 +1,19 @@
+1;The Queen;Risteiu Mihai
+
+2;Tuba Avenging;Trump Andrei
+
+3;Sign Affair;Bucea Cristi
+
+4;Mirror Queen;Misti Daniela
+
+5;Blood Solaris;Salam Mihai
+
+6;Painting Dying;Trump Fabian
+
+7;Blood Solaris;Trump Andreea
+
+8;The Runaway;Raiu Andrei
+
+9;Painting Attack;Bucea Daniela
+
+10;Trap Kiss;Popescu Augustin
